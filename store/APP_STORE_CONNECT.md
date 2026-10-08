@@ -129,7 +129,7 @@ SIX HEROES, EIGHTEEN SKINS
 
 PLAY, EARN, UNLOCK
 • Coins from every match: more for a win, a bonus for your first win of the day
-• Unlock heroes and skins with coins. One hero is free to play every week
+• Start with Mira; unlock heroes and skins with coins. Two heroes are free to play every week
 • Level up your player profile and climb six ranks, from Seedling to Celestial, in battles and in duels
 • Three daily quests that pay coins
 • A ladder of the best players
@@ -196,7 +196,7 @@ You can also create a new account on the Sign up tab.
 
 How to review:
 1. On the Play tab choose Battle or Duel and a team size, then tap vs Bots: a practice match against bots starts at once. (Find match looks for other players; if nobody is searching, after 30 seconds it asks whether to play against bots instead.)
-2. Tap Accept, pick a hero (Mira, Kael or Wren are unlocked; one more is free this week) and tap Lock in.
+2. Tap Accept, pick a hero (Mira is unlocked; two more are free this week) and tap Lock in.
 3. Move with the thumbstick on the left. Attack with the big button on the right and cast spells with the round buttons (tap to auto-aim, drag to aim). In a battle, tap a glowing spell to learn it.
 4. After the match, the result screen shows the coins and experience earned.
 The Heroes tab shows the heroes and skins that can be unlocked with coins earned by playing. The Custom tab makes a private room with a code.

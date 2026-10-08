@@ -47,7 +47,7 @@ SIX HEROES, EIGHTEEN SKINS
 
 PLAY, EARN, UNLOCK
 • Coins from every match: more for a win, and a bonus for your first win of the day.
-• Unlock heroes and skins with coins. One hero is free to play every week.
+• Start with Mira; unlock heroes and skins with coins. Two heroes are free to play every week.
 • Level up your player profile and climb six ranks, from Seedling to Celestial, in battles and in duels.
 • Three daily quests that pay coins.
 • A ladder of the best players.
