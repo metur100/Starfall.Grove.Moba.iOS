@@ -216,6 +216,19 @@ There are no in-app purchases, no ads and no tracking. Coins cannot be bought.
 Native features: landscape full screen, haptic feedback on game events, the screen kept awake during play, and the sign-in kept in the app's own storage, so the player stays logged in even if iOS clears web data.
 ```
 
+## 6b. Promotional artwork (key art)
+
+Where App Store Connect asks for large artwork in **5244 × 2950** or **3840 × 1646** pixels (drag and drop, or choose
+from the content library), upload the matching file from `store/app-store-artwork/`:
+
+- `key-art-5244x2950.jpg` (16:9)
+- `key-art-3840x1646.jpg` (wide)
+
+Both show the two teams facing off across the meadow under the Core star, with no text (the App Store sets its own
+text over the artwork) and the heroes kept in the middle, since the App Store crops the edges on some devices. They
+are JPEGs, so they have no alpha channel. They are drawn from the game's own paper puppets by the art page in the game
+repo (`.promo/promo.ts`, `appstore-16x9` and `appstore-wide`).
+
 ## 7. After review
 
 - **Submit for Review** sends version 1.0 with the build. Review usually takes 1–3 days.
