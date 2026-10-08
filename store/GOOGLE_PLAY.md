@@ -97,7 +97,7 @@ screenshots on tablets and uses them to decide whether the app is "designed for 
 ## 4. App content (Policy → App content)
 
 ### Privacy policy
-`https://starfallgrove.eu/privacy/`
+`https://starfallgrove.eu/minirift/privacy/`
 
 ### Ads
 **No, my app does not contain ads.**

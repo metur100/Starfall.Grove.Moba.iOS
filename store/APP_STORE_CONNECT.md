@@ -5,7 +5,7 @@ Everything the App Store listing for **Mini Rift** asks for, in the order App St
 ## 0. Before you start
 
 - Bundle ID `com.certidevelopment.minirift`. Either let EAS register it (the first `eas build -p ios` asks you to log in to Apple and creates the Bundle ID, certificate and provisioning profile), or add it by hand under developer.apple.com → Certificates, Identifiers & Profiles → Identifiers → App IDs, with no extra capabilities.
-- The website must be live with the updated privacy policy (it now covers Mini Rift's online profile), and the support page with the **Mini Rift** section.
+- The website must be live with Mini Rift's own privacy policy (`/minirift/privacy/`), and the support page with the **Mini Rift** section.
 
 ## 1. New app (My Apps → + → New App)
 
@@ -37,7 +37,7 @@ Everything the App Store listing for **Mini Rift** asks for, in the order App St
 
 ## 4. App Privacy
 
-- Privacy Policy URL: `https://starfallgrove.eu/privacy/`
+- Privacy Policy URL: `https://starfallgrove.eu/minirift/privacy/`
 - Data collection: **"Yes, we collect data from this app."** Mini Rift has accounts, a game profile, friends and chat. Add exactly these data types:
 
 | Data type (Apple's name) | What it is in Mini Rift | Purpose | Linked to the user? | Used for tracking? |
