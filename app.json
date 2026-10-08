@@ -21,7 +21,6 @@
     ],
     "ios": {
       "bundleIdentifier": "com.certidevelopment.minirift",
-      "buildNumber": "1",
       "supportsTablet": true,
       "requireFullScreen": true,
       "backgroundColor": "#1D1520",
@@ -36,7 +35,6 @@
     },
     "android": {
       "package": "com.certidevelopment.minirift",
-      "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#1D1520",
         "foregroundImage": "./assets/android-icon-foreground.png",
