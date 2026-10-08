@@ -99,6 +99,13 @@ screenshots on tablets and uses them to decide whether the app is "designed for 
 ### Privacy policy
 `https://starfallgrove.eu/minirift/privacy/`
 
+Enter this exact URL in **both** places: Policy → App content → **Privacy policy**, and Grow → Store presence → Store
+settings (the contact details' privacy policy field). Not `/privacy/`: that page is Starfall Grove's (which collects
+nothing) and doesn't cover Mini Rift. Google rejects a policy ("Invalid Privacy policy") that doesn't name the app, or
+doesn't name the developer exactly as the Play listing shows it: the Mini Rift policy names **Certi Development**
+(`studio` in the website's `site.json`), so keep that in step with the Play developer name. The game also links
+the policy from Settings and the Profile page, as Google expects for apps with accounts.
+
 ### Ads
 **No, my app does not contain ads.**
 
