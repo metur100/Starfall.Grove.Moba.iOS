@@ -1,0 +1,61 @@
+{
+  "expo": {
+    "name": "Mini Rift",
+    "slug": "starfall-mini-rift",
+    "owner": "certi-development",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#1D1520",
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 220,
+          "resizeMode": "contain",
+          "backgroundColor": "#1D1520"
+        }
+      ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.certidevelopment.minirift",
+      "buildNumber": "1",
+      "supportsTablet": true,
+      "requireFullScreen": true,
+      "backgroundColor": "#1D1520",
+      "config": {
+        "usesNonExemptEncryption": false
+      },
+      "infoPlist": {
+        "UIStatusBarHidden": true,
+        "UIViewControllerBasedStatusBarAppearance": false,
+        "LSApplicationCategoryType": "public.app-category.action-games"
+      }
+    },
+    "android": {
+      "package": "com.certidevelopment.minirift",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#1D1520",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "permissions": [
+        "android.permission.VIBRATE"
+      ],
+      "blockedPermissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.SYSTEM_ALERT_WINDOW"
+      ],
+      "predictiveBackGestureEnabled": false
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1ba06842-d027-4e5d-aee3-b557aabcffce"
+      }
+    }
+  }
+}
